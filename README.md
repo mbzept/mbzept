@@ -1,4 +1,4 @@
- <h1 align="center">Hey,I'm Anshuman Singh</h1>
+ <h1 align="center">Hey, I'm Anshuman Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
